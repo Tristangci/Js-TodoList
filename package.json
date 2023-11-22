@@ -1,0 +1,32 @@
+{
+  "name": "b-web-200-nce-2-1-epytodo-seif.soltane",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechPromo2027/B-WEB-200-NCE-2-1-epytodo-seif.soltane.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechPromo2027/B-WEB-200-NCE-2-1-epytodo-seif.soltane/issues"
+  },
+  "homepage": "https://github.com/EpitechPromo2027/B-WEB-200-NCE-2-1-epytodo-seif.soltane#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "ig": "^0.0.5",
+    "jsonwebtoken": "^9.0.0",
+    "mysql2": "^3.3.1",
+    "npm": "^9.6.6",
+    "sequelize": "^6.31.1"
+  },
+  "description": "Todo list API by tristan"
+}
